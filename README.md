@@ -14,8 +14,8 @@ El proyecto se estructura en diferentes etapas que abarcan desde la recolección
 
 Importación de las librerías necesarias para el análisis y modelado.
 Extracción de Datos desde la API Yahoo Finance
-Limpieza de los datos
-Análisis Exploratorio de Datos (EDA)
+Limpieza de los datos.
+Análisis Exploratorio de Datos (EDA).   
 
 Modelos Predictivos: Se realiza la implementación de cada modelo para la predicción del precio del petróleo, para la casuistica diaria y semanal, evaluando las metricas de desempeño del modelo (MAE, MSE, RMSE, R^2 y el tiempo de entrenamiento),evaluacion de las curvas de aprendizaje y un analisis gráfico comparativo del precio real y el precio predicho de los siguientes modelos: 
 Random Forest.
