@@ -13,14 +13,21 @@ Este proyecto utiliza técnicas de aprendizaje automático para predecir el prec
 El proyecto se estructura en diferentes etapas que abarcan desde la recolección y preprocesamiento de datos hasta la evaluación de los modelos predictivos. A continuación se describen las secciones principales del proyecto:
 
 Importación de las librerías necesarias para el análisis y modelado.
+
 Extracción de Datos desde la API Yahoo Finance
+
 Limpieza de los datos.
+
 Análisis Exploratorio de Datos (EDA).   
 
 Modelos Predictivos: Se realiza la implementación de cada modelo para la predicción del precio del petróleo, para la casuistica diaria y semanal, evaluando las metricas de desempeño del modelo (MAE, MSE, RMSE, R^2 y el tiempo de entrenamiento),evaluacion de las curvas de aprendizaje y un analisis gráfico comparativo del precio real y el precio predicho de los siguientes modelos: 
+
 Random Forest.
+
 Gradient Boosting Regressor (GBR).
+
 ADA Boost.
+
 Long Short-Term Memory (LSTM).
 
 ## Requisitos
